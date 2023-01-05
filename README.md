@@ -27,6 +27,7 @@
 		<li> 👤 Tenho 18 anos, moro em Alagoas, Brasil.</li>
 		<li> 💻 Atualmente estou estudando desenvolvimento web.</li>
 		<li> ⚡ Pesquisador desde que o mundo era quadrado :) .</li>
+		<li> 🐧 Para um mundo mais Open Source.</li>
 		<li> 🚀 "To infinity and beyond..."</li>
 	</ul>
 </div>
