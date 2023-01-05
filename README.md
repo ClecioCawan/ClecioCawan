@@ -2,10 +2,10 @@
 <h1><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px"> Hello World! Cawan Aqui.</h1>
 
 
-<div>
-  <img align="center"
+<div align="center">
+  <img
     src="code.gif" 
-    alt="coding" height="200px" width="300px" 
+    alt="coding" height="400px" width="500px" 
     />
 </div>
 <div>
