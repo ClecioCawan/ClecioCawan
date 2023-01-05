@@ -22,7 +22,7 @@
 
 <div>
 	<ul>
-		<li> 👤 Tenho 18 anos, moro em Alagoas, Brasil.</li>
+		<li> 👤 18 anos, natural de Alagoas, Brasil.</li>
 		<li> 💻 Atualmente estou estudando desenvolvimento web.</li>
 		<li> ⚡ Pesquisador desde que o mundo era quadrado :) .</li>
 		<li> 🐧 Para um mundo mais Open Source.</li>
