@@ -3,17 +3,16 @@
 
 
 <div>
-  <img align="left"
+  <img align="center"
     src="code.gif" 
-    alt="coding" height="200px" 
+    alt="coding" height="200px" width="300px" 
     />
 </div>
-<div align="center">
+<div>
     <h3 align="left">🧠 Mindset:</h3>
     <p><strong>“É genial festejar o sucesso, porém, é mais importante aprender com as lições do fracasso.”</strong>  (Bill Gates).</p>
     <p><strong>"Mesmo que a vida pareça difícil, há sempre algo que você pode fazer para ter sucesso nela. Quando alguém reclamar que você cometeu um erro, diga-lhe que pode ser algo bom." </strong>(Stephen Hawking).</p>
-	<br>
-    <h3 aling="left">📫 Contact me:</h3>
+    <h3>📫 Contact me:</h3>
 	    <a href="https://www.instagram.com/clecio_cawan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 	    <a href = "mailto:cleciocawandev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 	    <a href="https://www.linkedin.com/in/clecio-cawan-3b5a5625b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
