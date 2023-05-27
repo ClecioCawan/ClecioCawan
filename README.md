@@ -28,7 +28,7 @@
 		<li> 🐧 Para um mundo mais Open Source.</li>
 		<li> 🚀 "To infinity and beyond..."</li>
 	</ul> _ _
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ClecioCawan&bg_color=000000&color=00ffff&line=0000ff&point=00ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+(https://github-readme-activity-graph.cyclic.app/graph?username=ClecioCawan&bg_color=000000&color=00ffff&line=0000ff&point=00ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div> _ _
   
 <h3>👨🏽‍💻 linguagens e Ferramentas:</h3>
